@@ -1,9 +1,3 @@
-# Vora
-The Ethereal Sentinel
-------------
-
-Description
-
 Vora is a powerful yet elegant reconnaissance tool designed for ethical hackers and network administrators. It serves as your digital guardian, illuminating the unseen shadows of your network, and revealing vulnerabilities before they become threats. With its arsenal of integrated tools, Vora empowers users to assess, monitor, and secure their environments effectively, all while adhering to ethical standards.
 Features
 
