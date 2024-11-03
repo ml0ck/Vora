@@ -1,6 +1,8 @@
 Vora is a powerful yet elegant reconnaissance tool designed for ethical hackers and network administrators. It serves as your digital guardian, illuminating the unseen shadows of your network, and revealing vulnerabilities before they become threats. With its arsenal of integrated tools, Vora empowers users to assess, monitor, and secure their environments effectively, all while adhering to ethical standards.
 Features
 
+preview : https://i.ibb.co/tJwzWnp/Copie-d-cran-20241103-125910.png
+
     Comprehensive Network Scanning: Utilize advanced tools like Nmap and fping to discover devices, open ports, and services.
     Vulnerability Assessment: Integrates with Nessus and Nikto to identify potential weaknesses in your systems.
     Domain and Subdomain Discovery: Leveraging Sublist3r and WPScan to uncover hidden assets.
