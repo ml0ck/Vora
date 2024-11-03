@@ -1,0 +1,4 @@
+git clone https://github.com/yourusername/vora.git
+cd vora
+chmod +x update.sh
+./update.sh
